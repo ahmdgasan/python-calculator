@@ -9,3 +9,5 @@ To use it, follow these steps :
    you download it on different location.
 5. type 'python calculator.py', then it should work.
 6. If you use VSCode, open the folder where you downloaded the calculator.py file and then click the play button on the right top.
+
+*UPDATE : USERS NOW CANNOT INPUT LETTERS!
